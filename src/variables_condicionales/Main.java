@@ -8,10 +8,8 @@ public class Main {
         //areaDeUnCirculoDandoSuRadio();
         //solucionesRealesAUnaEcuacionDeSegundoGrado();
 
-
     }
-
-   
+    
     public static void longitudDeUnaCircunferenciaDadoSuRadio() {
         System.out.println("diametro = r+r y la longitud de la circunferencia es diametro x PI");
         System.out.println("introducir radio de la circunferencia");
